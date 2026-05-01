@@ -85,9 +85,3 @@ The goal was to transform raw environmental data into meaningful insights about:
 - PurpleAir Data Platform  
 - U.S. Environmental Protection Agency (EPA)  
 - AirNow (air quality resources)  
-
-
-
-    values='voc',
-    aggfunc=['median', 'mean']
-).round(2)
